@@ -1,7 +1,7 @@
 ## Hi , I'm Johnson 👋
 
 # 💫 About Me:
-## <br><br><br><br>- 🎓 Graduated BCA Student | Specializing in Computer Applications , Cyber Security & Data Analytics<br><br>- 📊 Data Analyst Enthusiast with practical experience in Python, SQL, Excel, Power BI, and Data Visualization<br><br>- 📂 Developed real-world analytics projects involving data cleaning, exploratory data analysis (EDA), and dashboard creation<br><br>- 📈 Strong foundation in Statistics, Data Manipulation, and Business Intelligence<br><br>- 🔍 Passionate about transforming raw data into meaningful insights for better decision-making<br><br>- 🌱 Continuously learning new analytical tools and industry best practices<br><br>- 🎯 Goal — Launch my career as a Data Analyst and contribute to data-driven business solutions
+## ><br>- 🎓 Graduated BCA Student | Specializing in Computer Applications , Cyber Security & Data Analytics<br><br>- 📊 Data Analyst Enthusiast with practical experience in Python, SQL, Excel, Power BI, and Data Visualization<br><br>- 📂 Developed real-world analytics projects involving data cleaning, exploratory data analysis (EDA), and dashboard creation<br><br>- 📈 Strong foundation in Statistics, Data Manipulation, and Business Intelligence<br><br>- 🔍 Passionate about transforming raw data into meaningful insights for better decision-making<br><br>- 🌱 Continuously learning new analytical tools and industry best practices<br><br>- 🎯 Goal — Launch my career as a Data Analyst and contribute to data-driven business solutions
 
 
 ## 🌐 Socials:

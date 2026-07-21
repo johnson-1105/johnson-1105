@@ -1,4 +1,3 @@
-## Hi , I'm Johnson 👋
 <div align="center">
 
 # 👋 JOHNSON
@@ -64,6 +63,57 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## ⭐ Featured Projects
+
+### 1. 📊 **Northwind Sales Dashboard** — Interactive Power BI Analytics
+
+**Sales analytics dashboard built on the Northwind sample database**
+
+- **Role:** Data Analyst
+- **Tech Stack:** Power BI | PostgreSQL | SQL | DAX
+- **Key Features:**
+  - Revenue, Orders, Customers & Products KPI cards
+  - Revenue by Category and Top 10 Products by Revenue
+  - Revenue by Ship Country (interactive map)
+  - Orders by Employee and Revenue by Shipper
+  - Revenue Trend analysis (1996–1998)
+- **Skills Demonstrated:** Data Cleaning, Data Modeling, SQL Queries, DAX Measures, Data Visualization, Dashboard Design, Business Intelligence
+
+🔗 **[View Repository](https://github.com/johnson-1105/northwind-powerbi-dashboard)**
+
+---
+
+### 2. 📋 **Complaint Register** — Student Complaint Management System
+
+**Web-based system for logging, tracking, and resolving student complaints**
+
+- **Role:** Full Stack Developer
+- **Tech Stack:** PHP | CSS | JSON
+- **Key Features:**
+  - Admin panel for managing and updating complaint status
+  - Student-facing complaint submission portal
+  - Complaint reporting and record-keeping
+  - Secure login/logout session handling
+
+🔗 **[View Repository](https://github.com/johnson-1105/Complaint-Register)**
+
+---
+
+### 3. 💼 **Profolio** — Personal Portfolio Website
+
+**Responsive personal portfolio site showcasing projects and skills**
+
+- **Role:** Frontend Developer
+- **Tech Stack:** HTML | CSS | JavaScript | Tailwind CSS
+- **Key Features:**
+  - Fully responsive, modern UI built with Tailwind
+  - Deployed and live on Vercel
+  - Clean project showcase and contact sections
+
+🔗 **[View Repository](https://github.com/johnson-1105/Profolio)** • 🌐 **[Live Site](https://project-yg50b.vercel.app)**
 
 ---
 
